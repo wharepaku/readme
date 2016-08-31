@@ -1,0 +1,2 @@
+# readme
+Doing the tutorial 
